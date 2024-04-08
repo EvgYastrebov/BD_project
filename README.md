@@ -4,16 +4,16 @@
 # ER - диаграмма
 ### До нормализации
 
-![](https://github.com/EvgYastrebov/BD_project/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
+![](https://github.com/EvgYastrebov/BD_project/blob/main/src/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
 
 ### После нормализации
 
-![](https://github.com/EvgYastrebov/BD_project/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG)
+![](https://github.com/EvgYastrebov/BD_project/blob/main/src/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG)
 
 Вторая нормальная форма, добавилась таблица TeamTournaments, так как одна команда может участвовть в нескольких турнирах
 
 ### С добавлением версионной таблицы
 
-![](https://github.com/EvgYastrebov/BD_project/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.PNG)
+![](https://github.com/EvgYastrebov/BD_project/blob/main/src/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.PNG)
 
 Четвертый тип версионирования для сохранения прошлых команд в которых играл футболист.
