@@ -174,7 +174,9 @@ class Database:
         except sqlite3.Error as e:
             print("Ошибка получения данных из БД "+str(e))
         return False
-    
+
+    def Close(self):
+        return self.__conn.close()
 
 def GeneratePlayersData(num_players):
     players_data = []
